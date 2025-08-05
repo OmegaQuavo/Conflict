@@ -1,2 +1,3 @@
 hello class
 lets learn about conflict resolution
+line 3 from the main branch
